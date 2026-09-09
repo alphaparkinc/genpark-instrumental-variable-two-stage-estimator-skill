@@ -1,0 +1,15 @@
+{
+  "name": "genpark-instrumental-variable-two-stage-estimator-skill",
+  "version": "1.0.0",
+  "description": "Instrumental Variable Two-Stage Least Squares (2SLS) causal estimator.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "instrumental-variables",
+    "2sls",
+    "causal-econometrics",
+    "unobserved-confounding",
+    "agentic-ai"
+  ]
+}
